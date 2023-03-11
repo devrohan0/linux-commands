@@ -1,0 +1,35 @@
+
+ 1)  vi filename : this command is used to create and
+                   edit new file as well as existing file.
+
+ 2)  esc : escape command is used to escape out of any mode.
+
+ 3)   i : this command is used to insert/edit text.
+
+ 4)   o : this command is used to insert text in new line.
+
+ 5)   a : this command is usee to insert text after a space.
+
+ 6)   :q! : this commandcis used to quit without saving.
+
+ 7)   :wq : this command is used to quit and save.
+
+ 8)   r : this command is used to replace text.
+
+ 9)   dd : this command is used to delete one line text.
+
+ 10)   u : this command is used for undo.
+
+ 11)   x : this command is used for delete single character
+           it is like backspqce.
+
+ 12)   / : this command is used for searching any word.
+
+ 13)   ? : this command is used for searching any word from backward.
+
+ 14)   less filename : this command is used to read file data and press
+                       "q" to exit.
+
+ 15)   shift+g : this command is used to see the data from the bottom.
+
+ 16)   shift+p : this command is used to see the data from the top.
